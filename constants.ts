@@ -17,27 +17,30 @@ export const TECHNOLOGIES: string[] = [
 
 export const PROJECTS: Project[] = [
   {
-    title: 'Pipeline de Dados com AWS',
-    description: 'Projeto final do Programa de Bolsas da Compass UOL, construindo um pipeline de dados real com serviços AWS para ingestão, processamento e análise de dados.',
-    tags: ['AWS Glue', 'AWS Athena', 'AWS S3', 'Python', 'SQL', 'Engenharia de Dados'],
-    githubUrl: 'https://github.com/danilo-s-reis/Compass-UOL-PB',
+    title: 'Trilha AWS Cloud Data Engineer na Compass UOL',
+    description: 'Repositório utilizado para desenvolver as atividades e os desafios propostos em cada Sprint no Programa de Bolsas da Compass UOL na trilha AWS Cloud Data Engineering.',
+    tags: ['AWS EC2','AWS Glue', 'AWS Athena', 'AWS S3', 'Python', 'SQL', 'ETL','Engenharia de Dados','Análise de Dados'],
+    githubUrl: 'https://github.com/danilo-s-reis/aws-cloud-data-engineering',
   },
   {
-    title: 'Estudos em Data Science & Analytics',
-    description: 'Repositório com notebooks e projetos práticos sobre Data Science e Análise de Dados, utilizando bibliotecas populares de Python.',
-    tags: ['Python', 'Pandas', 'Numpy', 'Matplotlib', 'Jupyter'],
-    githubUrl: 'https://github.com/danilo-s-reis/Data-Science-e-Analytics',
+    title: 'Analytics com Python - Salários na Área de Dados',
+    description: 'Dashboard interativo criado com Streamlit para analisar e visualizar dados de salários na área de dados, utilizando bibliotecas como Pandas e Plotly para explorar tendências e insights sobre remuneração, cargos, senioridade e localização geográfica.',
+    tags: ['Python', 'Pandas', 'Plotly', 'Streamlit', 'Análise de Dados'],
+    githubUrl: 'https://github.com/danilo-s-reis/',
+    liveUrl: 'https://#',
   },
   {
     title: 'Website de Portfólio',
     description: 'Este site de portfólio, criado para apresentar minhas habilidades e projetos. Design limpo, responsivo e intuitivo.',
     tags: ['React', 'TypeScript', 'Tailwind CSS', 'Frontend'],
-    githubUrl: 'https://github.com/danilo-s-reis',
+    githubUrl: 'https://github.com/danilo-s-reis/dan-portfolio',
+    liveUrl: 'https://#',
   },
     {
-    title: 'Projeto Pedagógico FATEC',
-    description: 'Desenvolvimento de projeto acadêmico como parte da grade curricular do curso de Análise e Desenvolvimento de Sistemas na FATEC Zona Sul.',
-    tags: ['Acadêmico', 'ADS', 'Software'],
-    githubUrl: 'https://github.com/danilo-s-reis',
+    title: 'Homepage do Spotify',
+    description: 'Recriação estática da homepage do Spotify utilizando HTML, CSS e JavaScript.',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Frontend'],
+    githubUrl: 'https://github.com/danilo-s-reis/spotify-homepage-recreation',
+    liveUrl: 'https://danilo-s-reis.github.io/spotify-homepage-recreation/',
   },
 ];
