@@ -105,5 +105,5 @@ Vamos nos conectar!
 
 Você pode ver a versão ao vivo do projeto aqui:
 
-[**[Link para o Deploy]**](https://seu-link-de-deploy.com)
+[**[Link para deploy]**](https://danilo-reis.vercel.app/)
 
