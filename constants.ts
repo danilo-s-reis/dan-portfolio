@@ -26,15 +26,15 @@ export const PROJECTS: Project[] = [
     title: 'Analytics com Python - Salários na Área de Dados',
     description: 'Dashboard interativo criado com Streamlit para analisar e visualizar dados de salários na área de dados, utilizando bibliotecas como Pandas e Plotly para explorar tendências e insights sobre remuneração, cargos, senioridade e localização geográfica.',
     tags: ['Python', 'Pandas', 'Plotly', 'Streamlit', 'Análise de Dados'],
-    githubUrl: 'https://github.com/danilo-s-reis/',
-    liveUrl: 'https://#',
+    githubUrl: 'https://github.com/danilo-s-reis/analytics-python-salarios',
+    liveUrl: 'https://analytics-python-portfolio.streamlit.app/',
   },
   {
     title: 'Website de Portfólio',
     description: 'Este site de portfólio, criado para apresentar minhas habilidades e projetos. Design limpo, responsivo e intuitivo.',
     tags: ['React', 'TypeScript', 'Tailwind CSS', 'Frontend'],
     githubUrl: 'https://github.com/danilo-s-reis/dan-portfolio',
-    liveUrl: 'https://#',
+    liveUrl: 'https://danilo-reis.vercel.app/',
   },
     {
     title: 'Homepage do Spotify',

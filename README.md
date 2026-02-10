@@ -11,6 +11,7 @@ Este é o repositório do meu site de portfólio pessoal, desenvolvido para apre
 -   **TypeScript:** Para adicionar tipagem estática ao JavaScript, garantindo um código mais robusto e de fácil manutenção.
 -   **Tailwind CSS:** Um framework CSS *utility-first* para estilização rápida e customizável diretamente no HTML/JSX.
 -   **ESM (ECMAScript Modules):** Os módulos (React, ReactDOM) são carregados diretamente no navegador através da CDN `esm.sh`, eliminando a necessidade de `npm install` ou `webpack`/`vite` para o desenvolvimento.
+-   **Vercel:** Deploy e CI/CD.
 
 ---
 
