@@ -29,18 +29,17 @@ export const PROJECTS: Project[] = [
     githubUrl: 'https://github.com/danilo-s-reis/analytics-python-salarios',
     liveUrl: 'https://analytics-python-portfolio.streamlit.app/',
   },
-  {
+    {
+    title: 'Protótipo TCC - Pipeline de Análise de Vagas de TI',
+    description: 'Protótipo em Python que implementa uma pipeline de Extração, Transformação e Carga (ETL) com um módulo de Processamento de Linguagem Natural (PLN) e um Dashboard interativo.',
+    tags: ['BeautifulSoup', 'Pandas', 'SQLAlchemy', 'SQLite', 'Streamlit', 'Plotly'],
+    githubUrl: 'https://github.com/danilo-s-reis/prototipo-tcc/tree/main',
+  },
+    {
     title: 'Website de Portfólio',
     description: 'Este site de portfólio, criado para apresentar minhas habilidades e projetos. Design limpo, responsivo e intuitivo.',
     tags: ['React', 'TypeScript', 'Tailwind CSS', 'Frontend'],
     githubUrl: 'https://github.com/danilo-s-reis/dan-portfolio',
     liveUrl: 'https://danilo-reis.vercel.app/',
-  },
-    {
-    title: 'Homepage do Spotify',
-    description: 'Recriação estática da homepage do Spotify utilizando HTML, CSS e JavaScript.',
-    tags: ['HTML', 'CSS', 'JavaScript', 'Frontend'],
-    githubUrl: 'https://github.com/danilo-s-reis/spotify-homepage-recreation',
-    liveUrl: 'https://danilo-s-reis.github.io/spotify-homepage-recreation/',
   },
 ];
