@@ -32,7 +32,7 @@ export const PROJECTS: Project[] = [
     {
     title: 'Protótipo TCC - Pipeline de Análise de Vagas de TI',
     description: 'Protótipo em Python que implementa uma pipeline de Extração, Transformação e Carga (ETL) com um módulo de Processamento de Linguagem Natural (PLN) e um Dashboard interativo.',
-    tags: ['BeautifulSoup', 'Pandas', 'SQLAlchemy', 'SQLite', 'Streamlit', 'Plotly'],
+    tags: ['Python', 'BeautifulSoup', 'Pandas', 'SQLAlchemy', 'SQLite', 'Streamlit', 'Plotly'],
     githubUrl: 'https://github.com/danilo-s-reis/prototipo-tcc/tree/main',
   },
     {
