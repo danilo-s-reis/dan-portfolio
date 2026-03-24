@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { PERSONAL_INFO, PROJECTS, TECHNOLOGIES } from './constants';
-import { GithubIcon, LinkedinIcon, MailIcon } from './components/Icons';
+import { GithubIcon, LinkedinIcon, MailIcon, ResumeIcon } from './components/Icons';
 import ProjectCard from './components/ProjectCard';
 import AboutMeContent from './components/AboutMeContent';
 
@@ -47,6 +47,15 @@ const App: React.FC = () => {
                 className="text-medium-gray hover:text-accent transition-colors duration-300"
               >
                 <MailIcon className="h-6 w-6" />
+              </a>
+              <a 
+                href={PERSONAL_INFO.resume} 
+                download="curriculo-danilo-reis.pdf" // Força o download com este nome
+                aria-label="Baixar Currículo"
+                title="Baixar Currículo" // Adiciona um tooltip nativo ao passar o mouse
+                className="text-medium-gray hover:text-accent transition-colors duration-300"
+              >
+                <ResumeIcon className="h-6 w-6" />
               </a>
             </div>
           </div>

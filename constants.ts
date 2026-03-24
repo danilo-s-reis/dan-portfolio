@@ -7,6 +7,7 @@ export const PERSONAL_INFO = {
   email: 'reis.souza.danilo@hotmail.com',
   linkedin: 'https://www.linkedin.com/in/danilo-souza-reis-ab61761b6/',
   github: 'https://github.com/danilo-s-reis',
+  resume: '/curriculo-danilo-reis.pdf',
 };
 
 export const TECHNOLOGIES: string[] = [
